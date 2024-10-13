@@ -35,7 +35,7 @@ RSVP Speed Reader is an AutoHotkey script that implements a Rapid Serial Visual 
 
 ## Demo Example
 
-![](https://imgur.com/a/fdGKEJg)
+![](https://github.com/CrisDxyz/RSVP-Speed-Reader/blob/main/RVSP%20(short%20gif%20demo).gif)
 
 
 ## GUI Overview
