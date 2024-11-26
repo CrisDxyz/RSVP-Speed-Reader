@@ -48,10 +48,6 @@ RSVP Speed Reader is an AutoHotkey script that implements a Rapid Serial Visual 
 
 You can easily modify the script to change the GUI layout, font size, or add additional features. The script is well-commented to help you understand and modify its behavior.
 
-## Contributing
-
-Contributions to improve the RSVP Speed Reader are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
